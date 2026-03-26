@@ -10,3 +10,6 @@ estamos haciendo el readme en la clase(praise mekane).
 
 Imagen simple
 ![Texto alternativo](mizutsune.jpg)
+
+Imagen desde URL externa
+![Logo](https://github.com/rotabori/ensayo001/blob/main/carrito01.jpg)
